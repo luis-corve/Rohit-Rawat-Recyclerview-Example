@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="string_movie_name">name</string>
+    <string name="string_director_name">RecyclerViewExample</string>
+    <string name="string_year">directorName</string>
+</resources>
